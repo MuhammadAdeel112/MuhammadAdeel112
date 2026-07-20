@@ -1,39 +1,91 @@
 # Hi there! I'm Muhammad Adeel 👋
-**Mobile Application Developer | Flutter & Firebase Expert**
 
-I am a passionate **Mobile App Developer** with 1+ year of experience in building high-performance, cross-platform applications using **Flutter**. I specialize in creating clean, maintainable code using **MVVM architecture** and integrating robust backend solutions.
+## 🚀 Flutter Developer | Mobile Application Developer
 
----
-
-### 🚀 Featured Project (Live on Play Store)
-#### **Salon Manager App**
-*A professional business management tool for salon owners.*
-* **Tech Stack:** Flutter, Dart, Firebase, Provider.
-* **Key Features:** Real-time Appointment Booking, Service Management, Push Notifications.
-* **Impact:** Streamlined daily operations for salon businesses.
+I'm a passionate **Flutter Developer** with **2+ years of experience** building high-quality cross-platform mobile applications. I specialize in developing scalable and user-friendly apps using **Flutter**, **Firebase**, **REST APIs**, and **MVVM Architecture**. I enjoy writing clean, maintainable code and delivering reliable mobile solutions.
 
 ---
 
-### 🛠️ Technical Toolkit
-* **Frameworks:** Flutter, Node.js (Basic CRUD)
-* **Languages:** Dart, JavaScript (Node.js)
-* **State Management:** Provider, Riverpod, BLoC
-* **Architecture:** MVVM (Model-View-ViewModel)
-* **Databases:** Firebase, MongoDB
-* **Tools:** Cursor AI, Git/GitHub, Postman, Android Studio
+## 🛠️ Technical Skills
+
+### 💻 Frameworks & Technologies
+- Flutter
+- Firebase
+- REST APIs
+- Node.js (Basic)
+
+### 👨‍💻 Programming Languages
+- Dart
+- JavaScript
+
+### 🔄 State Management
+- Provider
+- Riverpod
+- BLoC
+
+### 🏗️ Architecture
+- MVVM (Model-View-ViewModel)
+
+### 🗄️ Database
+- Firebase Firestore
+- MongoDB
+
+### 🛠️ Tools
+- Git & GitHub
+- Android Studio
+- VS Code
+- Cursor AI
+- Postman
 
 ---
 
-### 📂 Major Projects
-* **Divine Employee App:** Focused on enterprise-level employee management and Firebase notifications.
-* **Bilty Desktop:** A specialized solution for logistics and desktop-based management.
-* **Logic Hub:** A collection of complex logic implementations in Dart.
+## 🚀 Featured Project
+
+### 📱 Divine Employee App (Live on Google Play Store)
+
+A professional employee management application designed for enterprise businesses.
+
+**Tech Stack**
+- Flutter
+- Dart
+- Firebase
+- REST APIs
+- Provider
+
+**Key Features**
+- Employee Management
+- Job Assignment
+- Firebase Push Notifications (FCM)
+- Authentication
+- Real-time Data Synchronization
+- MVVM Architecture
 
 ---
 
-### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/muhammad-adeel](linkedin.com/in/muhammad-adeel-864b7b381)
-* **Email:** [muhammmadadeel64@gmail.com]
+## 📂 Other Projects
+
+### 💇 Salon Manager
+A salon management application with appointment booking, customer management, and service management.
+
+### 📚 MDCAT App
+An educational application featuring online tests, authentication, result management, and MVVM architecture.
+
+### 🚛 Bilty Desktop
+A desktop solution for logistics and transport management.
+
+### 🧠 Logic Hub
+A collection of Dart logic implementations and reusable programming solutions.
 
 ---
-*“Always striving to write code that is as beautiful as the UI it powers.”*
+
+## 📫 Connect with Me
+
+- **LinkedIn:** https://linkedin.com/in/muhammad-adeel-864b7b381
+- **GitHub:** https://github.com/MuhammadAdeel112
+- **Email:** muhammadadeel64@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and connect with me.
+
+> *"Building modern, scalable, and user-friendly mobile applications with Flutter."*
