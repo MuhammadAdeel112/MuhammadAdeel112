@@ -14,34 +14,39 @@ I build modern, scalable, and high-performance mobile applications using Flutter
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Provider-State_Management-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Riverpod-State_Management-5C6BC0?style=for-the-badge"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **Flutter Developer** with **2+ years of experience** developing high-quality cross-platform mobile applications.
+I'm a **Flutter Developer** with **2+ years of experience** building high-quality cross-platform mobile applications.
 
-I specialize in developing scalable, maintainable, and production-ready applications using modern Flutter architecture and best development practices.
+I specialize in developing scalable, maintainable, and production-ready mobile applications using **Flutter**, **Firebase**, **REST APIs**, and **MVVM Architecture**.
 
-### My expertise includes:
+I enjoy transforming ideas into clean, user-friendly, and high-performance applications that solve real-world business problems.
+
+### 🚀 My Expertise
 
 - 📱 Flutter Mobile Application Development
 - 🔥 Firebase Integration
 - 🌐 REST API Integration
-- 🏗 MVVM Architecture
+- 🏗️ MVVM Architecture
 - ⚡ Provider, Riverpod & BLoC
 - 🔐 Firebase Authentication
 - 🔔 Firebase Cloud Messaging (FCM)
-- 📦 Clean Code & Reusable Components
+- 📦 Clean & Reusable Code
 - 🚀 Google Play Store Deployment
 - 🛠 Git & GitHub
+- 📲 Responsive UI Development
 
 ---
 
-# 🚀 Technical Skills
+# 🛠️ Technical Skills
 
-## Languages
+## Programming Languages
 
 - Dart
 - JavaScript
@@ -68,7 +73,7 @@ I specialize in developing scalable, maintainable, and production-ready applicat
 - Firebase Firestore
 - MongoDB
 
-## Tools
+## Development Tools
 
 - Android Studio
 - VS Code
@@ -76,6 +81,7 @@ I specialize in developing scalable, maintainable, and production-ready applicat
 - Postman
 - Git
 - GitHub
+- Figma
 
 ---
 
@@ -89,43 +95,109 @@ Enterprise-level employee management application.
 
 - Employee Management
 - Job Assignment
-- Authentication
+- User Authentication
 - Firebase Notifications (FCM)
 - REST API Integration
-- Real-time Data
+- Real-time Data Synchronization
 - MVVM Architecture
 
 **Tech Stack**
 
-Flutter • Dart • Firebase • Provider • REST APIs
+`Flutter` • `Dart` • `Firebase` • `Provider` • `REST APIs`
 
 ---
 
 ## 💇 Salon Manager
 
-Business management solution for salon owners.
+A complete salon management application for salon owners.
 
 ### Features
 
 - Appointment Booking
 - Customer Management
+- Staff Management
 - Service Management
 - Push Notifications
 - Firebase Integration
+
+**Tech Stack**
+
+`Flutter` • `Firebase` • `Provider`
+
+---
+
+## 🚪 DoorPoP
+
+A smart visitor management and secure door access application.
+
+### Features
+
+- Visitor Registration
+- QR Code Verification
+- OTP Verification
+- Visitor History
+- Real-time Notifications
+- Secure Entry & Exit Management
+
+**Tech Stack**
+
+`Flutter` • `Firebase` • `REST APIs`
+
+---
+
+## 🔐 Mobiguard
+
+A mobile device security and management solution.
+
+### Features
+
+- Device Monitoring
+- App Management
+- Device Security
+- User Authentication
+- Remote Device Management
+- Admin Dashboard Integration
+
+**Tech Stack**
+
+`Flutter` • `Firebase` • `REST APIs`
+
+---
+
+## 🕌 Namaz Bajamat
+
+An Islamic application designed to encourage users to pray in congregation.
+
+### Features
+
+- Prayer Timings
+- Masjid Finder
+- Qibla Direction
+- Daily Prayer Reminders
+- Clean & User-Friendly UI
+
+**Tech Stack**
+
+`Flutter` • `Firebase`
 
 ---
 
 ## 📚 MDCAT App
 
-Online learning platform for MDCAT students.
+An educational application for MDCAT students.
 
 ### Features
 
 - Authentication
 - Online Tests
+- Performance Analysis
 - Results
 - REST API Integration
 - MVVM Architecture
+
+**Tech Stack**
+
+`Flutter` • `Provider` • `REST APIs`
 
 ---
 
@@ -133,18 +205,47 @@ Online learning platform for MDCAT students.
 
 Desktop application for logistics and transport management.
 
+### Features
+
+- Bilty Management
+- Shipment Tracking
+- Customer Records
+- Desktop Operations
+
+**Tech Stack**
+
+`Flutter Desktop`
+
 ---
 
-# 💼 What I Can Build
+## 🧠 Logic Hub
 
-- Business Applications
-- Employee Management Systems
-- Booking Applications
-- Educational Apps
-- E-Commerce Apps
-- Firebase Based Applications
-- API Based Applications
-- Admin Dashboard Integration
+A collection of reusable Flutter and Dart logic implementations.
+
+### Features
+
+- Clean Architecture Examples
+- API Integration
+- Reusable Components
+- Flutter Best Practices
+- Advanced Dart Logic
+
+---
+
+# 💼 Services
+
+- 📱 Flutter Mobile App Development
+- 🔥 Firebase Integration
+- 🌐 REST API Integration
+- 🏢 Business Applications
+- 👨‍💼 Employee Management Systems
+- 📅 Booking Applications
+- 🛒 E-Commerce Applications
+- 🎓 Educational Applications
+- 🕌 Islamic Applications
+- 🔐 Authentication Systems
+- 📦 Admin Panel Integration
+- 🚀 App Deployment
 
 ---
 
@@ -164,6 +265,23 @@ https://github.com/MuhammadAdeel112
 
 ---
 
+# 📈 Currently Learning
+
+- Flutter Clean Architecture
+- Advanced Riverpod
+- Flutter Desktop
+- CI/CD
+- Advanced Firebase
+- Performance Optimization
+
+---
+
 # ⭐ Motto
 
-> **"Turning ideas into beautiful, scalable, and high-performance mobile applications with Flutter."**
+> **"Turning ideas into modern, scalable, and high-performance mobile applications with Flutter while delivering clean architecture and exceptional user experiences."**
+
+---
+
+<p align="center">
+⭐ <b>If you like my work, don't forget to star my repositories!</b> ⭐
+</p>
