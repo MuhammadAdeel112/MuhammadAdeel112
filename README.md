@@ -1,91 +1,169 @@
-# Hi there! I'm Muhammad Adeel 👋
+<h1 align="center">Hi 👋, I'm Muhammad Adeel</h1>
+<h3 align="center">Flutter Developer | Cross-Platform Mobile App Developer | Firebase Expert</h3>
 
-## 🚀 Flutter Developer | Mobile Application Developer
+<p align="center">
+I build modern, scalable, and high-performance mobile applications using Flutter.
+</p>
 
-I'm a passionate **Flutter Developer** with **2+ years of experience** building high-quality cross-platform mobile applications. I specialize in developing scalable and user-friendly apps using **Flutter**, **Firebase**, **REST APIs**, and **MVVM Architecture**. I enjoy writing clean, maintainable code and delivering reliable mobile solutions.
+<p align="center">
+<a href="https://github.com/MuhammadAdeel112">
+<img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+# 👨‍💻 About Me
 
-### 💻 Frameworks & Technologies
-- Flutter
-- Firebase
-- REST APIs
-- Node.js (Basic)
+I'm a **Flutter Developer** with **2+ years of experience** developing high-quality cross-platform mobile applications.
 
-### 👨‍💻 Programming Languages
+I specialize in developing scalable, maintainable, and production-ready applications using modern Flutter architecture and best development practices.
+
+### My expertise includes:
+
+- 📱 Flutter Mobile Application Development
+- 🔥 Firebase Integration
+- 🌐 REST API Integration
+- 🏗 MVVM Architecture
+- ⚡ Provider, Riverpod & BLoC
+- 🔐 Firebase Authentication
+- 🔔 Firebase Cloud Messaging (FCM)
+- 📦 Clean Code & Reusable Components
+- 🚀 Google Play Store Deployment
+- 🛠 Git & GitHub
+
+---
+
+# 🚀 Technical Skills
+
+## Languages
+
 - Dart
 - JavaScript
 
-### 🔄 State Management
+## Frameworks
+
+- Flutter
+- Firebase
+- Node.js (Basic)
+
+## State Management
+
 - Provider
 - Riverpod
 - BLoC
 
-### 🏗️ Architecture
-- MVVM (Model-View-ViewModel)
+## Backend
 
-### 🗄️ Database
+- REST APIs
+- Firebase Services
+
+## Databases
+
 - Firebase Firestore
 - MongoDB
 
-### 🛠️ Tools
-- Git & GitHub
+## Tools
+
 - Android Studio
 - VS Code
 - Cursor AI
 - Postman
+- Git
+- GitHub
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Projects
 
-### 📱 Divine Employee App (Live on Google Play Store)
+## 📱 Divine Employee App
 
-A professional employee management application designed for enterprise businesses.
+Enterprise-level employee management application.
 
-**Tech Stack**
-- Flutter
-- Dart
-- Firebase
-- REST APIs
-- Provider
+### Features
 
-**Key Features**
 - Employee Management
 - Job Assignment
-- Firebase Push Notifications (FCM)
 - Authentication
-- Real-time Data Synchronization
+- Firebase Notifications (FCM)
+- REST API Integration
+- Real-time Data
+- MVVM Architecture
+
+**Tech Stack**
+
+Flutter • Dart • Firebase • Provider • REST APIs
+
+---
+
+## 💇 Salon Manager
+
+Business management solution for salon owners.
+
+### Features
+
+- Appointment Booking
+- Customer Management
+- Service Management
+- Push Notifications
+- Firebase Integration
+
+---
+
+## 📚 MDCAT App
+
+Online learning platform for MDCAT students.
+
+### Features
+
+- Authentication
+- Online Tests
+- Results
+- REST API Integration
 - MVVM Architecture
 
 ---
 
-## 📂 Other Projects
+## 🚛 Bilty Desktop
 
-### 💇 Salon Manager
-A salon management application with appointment booking, customer management, and service management.
-
-### 📚 MDCAT App
-An educational application featuring online tests, authentication, result management, and MVVM architecture.
-
-### 🚛 Bilty Desktop
-A desktop solution for logistics and transport management.
-
-### 🧠 Logic Hub
-A collection of Dart logic implementations and reusable programming solutions.
+Desktop application for logistics and transport management.
 
 ---
 
-## 📫 Connect with Me
+# 💼 What I Can Build
 
-- **LinkedIn:** https://linkedin.com/in/muhammad-adeel-864b7b381
-- **GitHub:** https://github.com/MuhammadAdeel112
-- **Email:** muhammadadeel64@gmail.com
+- Business Applications
+- Employee Management Systems
+- Booking Applications
+- Educational Apps
+- E-Commerce Apps
+- Firebase Based Applications
+- API Based Applications
+- Admin Dashboard Integration
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me.
+# 📫 Connect With Me
 
-> *"Building modern, scalable, and user-friendly mobile applications with Flutter."*
+📧 **Email**
+
+**muhammadadeel64@gmail.com**
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/muhammad-adeel-864b7b381
+
+💻 **GitHub**
+
+https://github.com/MuhammadAdeel112
+
+---
+
+# ⭐ Motto
+
+> **"Turning ideas into beautiful, scalable, and high-performance mobile applications with Flutter."**
